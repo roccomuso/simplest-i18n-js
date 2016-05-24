@@ -1,0 +1,32 @@
+{
+	"tit_1": {
+		"desc": "Parola 'Chi Siamo', top menu e sezioni..",
+		"ita": "Chi Siamo",
+		"eng": "About us",
+		"fra": "à propos de nous"
+	},
+	"tit_2": {
+		"desc": "Parola 'Lavori', top menu e sezioni..",
+		"ita": "Lavori",
+		"eng": "Gallery",
+		"fra": "Les Traveaux"
+	},
+	"tit_3": {
+		"desc": "Parola 'Attivita didattiche', top menu e sezioni..",
+		"ita": "Attivita' Didattiche",
+		"eng": "Educational Activities",
+		"fra": "Activités éducatives"
+	},
+	"tit_4": {
+		"desc": "Parola 'Pubblicazioni e convegni', top menu e sezioni..",
+		"ita": "Pubblicazioni e Convegni",
+		"eng": "Publications and Conferences",
+		"fra": "Publications et Conférences"
+	},
+	"tit_5": {
+		"desc": "Parola 'contatti', top menu e sezioni..",
+		"ita": "Contatti",
+		"eng": "Contacts",
+		"fra": "Contacts"
+	}
+}
