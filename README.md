@@ -3,7 +3,11 @@ The simplest way to provide a translation system for your web pages.
 
 ## How it works
 
-To make it works simply add to your elements (*div/span/p* etc.) the class defined in classSelector.
+Include the lib in your page:
+
+    <script srch="./translation.js"></script>
+
+Then to make it works simply add to your elements (*div/span/p* etc.) the class defined in classSelector.
 By default the class to add is 'translate'.
 And the element identifier name as value of the elemeIdentifier attribute.
 By default something like:
